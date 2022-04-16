@@ -1,0 +1,26 @@
+Algoritimo sistema de pedidos 5.0
+
+-Boas vindas ao cliente
+-Receber o nome do cliente
+-Informar ao cliente que agora ele vai fazer o cadastro
+
+CADASTRO
+
+-Criar o nome de usuário para cadastro
+-Criar a senha para cadastro
+
+LOGIN
+
+-Campo para digitar o nome de usuário
+-Campo para digitar a senha
+
+PEDIDO DO CLIENTE
+
+Quando o cliente logar, informar a ele para fazer um pedido
+-Receber o pedido do cliente, sendo: lanches, refrigerantes e uma sobremesa
+-Receber a cidade para a entrega
+-Receber o bairro para a entrega
+-Receber a rua para a entrega
+-Receber o número da casa para a entrega
+-Informar ao sistema o nome do cliente e o pedido e também o endereço para
+a entrega
